@@ -42,7 +42,7 @@ insert into owner values ('O018', 'UNKNOWN', '303-555-0118', 'Address not availa
 insert into owner values ('O019', 'KESSLER ADAM (.75)/PRICE JULIA (.25)', '303-555-0119', '1089 Sunset Blvd, Northglenn, CO');
 insert into owner values ('O020', 'LANGDON E MARIE/PAUL J', '303-555-0120', '3375 Ridge Rd, Wellington, CO');
 insert into owner values ('O021', 'ROWAN JOINT REVOCABLE TRUST', '303-555-0121', '560 Valley Dr, Johnstown, CO');
-insert into owner values ('O022', '15 Maplewood Pkwy', '303-555-0122', '15 Brooklind Pkwy, Thornton, CO');
+insert into owner values ('O022', 'MAPLEWOOD ESTATES HOMEOWNERS ASSOCIATION', '303-555-0122', '15 Maplewood Pkwy, Thornton, CO');
 
 commit;
 
