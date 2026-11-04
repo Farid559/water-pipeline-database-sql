@@ -40,4 +40,4 @@ Tables are linked with primary and foreign keys. For example, each property link
 
 ## About Me
 
-Farid Mammadov, Master of Business Analytics student. [LinkedIn](https://www.linkedin.com/in/farid-mammadov-az)
+Farid Mammadov, Master of Information Systems/Business Analytics student. [LinkedIn](https://www.linkedin.com/in/farid-mammadov-az)
